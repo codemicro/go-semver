@@ -2,6 +2,8 @@
 
 *Golang library to parse and compare [v2.0.0 semantic version numbers](https://semver.org/spec/v2.0.0.html).*
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/codemicro/go-semver.svg)](https://pkg.go.dev/github.com/codemicro/go-semver)
+
 ---
 
 I built this package for my A-Level Computer Science NEA and never ended up using it. It's a thoroughly-tested library for parsing and comparing semantic versions.
